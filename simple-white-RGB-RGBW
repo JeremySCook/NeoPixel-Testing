@@ -9,7 +9,6 @@
 #endif
 
 // Which pin on the Arduino is connected to the NeoPixels?
-// On a Trinket or Gemma we suggest changing this to 1
 #define PINRGBW        6
 #define PINRGB         7
 
